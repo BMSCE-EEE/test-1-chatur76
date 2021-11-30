@@ -1,4 +1,4 @@
-~/test-1-chatur76$ gcc -g p10original.c
+ ~/test-1-chatur76$ gcc -g p10original.c
 ~/test-1-chatur76$ gdb a.out
 GNU gdb (Ubuntu 8.1.1-0ubuntu1) 8.1.1
 Copyright (C) 2018 Free Software Foundation, Inc.
