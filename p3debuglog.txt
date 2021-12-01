@@ -1,0 +1,15 @@
+(gdb) break main
+Note: breakpoint 1 also set at pc 0x557b4e400722.
+Breakpoint 2 at 0x557b4e400722: file p3original.c, line 6.
+(gdb) r
+The program being debugged has been started already.
+Start it from the beginning? (y or n) n
+Program not restarted.
+(gdb) s
+8     input(&A,&B);
+(gdb) c
+Continuing.
+2 9
+sum of 2+9 is 11[Inferior 1 (process 37) exited normally]
+(gdb) Quit
+(gdb) 
